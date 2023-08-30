@@ -1,0 +1,5 @@
+print(8/3)
+print(8//3)
+print(int(8/3))
+print(round(7/3,1))
+print(round(8/3,2))
