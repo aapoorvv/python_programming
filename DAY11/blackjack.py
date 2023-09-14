@@ -64,5 +64,5 @@ while isGameOver:
     choice = input("Do you want to hit or stand? h or s: ")
     if choice == 'h':
         user_cards.append(deal_card())
-    while 0<calculate_score(dealer_cards)<17:
+    while 0<calculate_score(dealer_cards)<17 :
         dealer_cards.append(deal_card())
