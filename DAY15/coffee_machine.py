@@ -63,7 +63,7 @@ def machine(order):
     global money
     if check_resources(order) == True :
         print("\nPlease insert coins:")
-        quart = int(input("How many quarters? "))
+        quart = int(input("How many quarters?"))
         dimes = int(input("How many dimes? "))
         nick = int(input("How many nickles? "))
         penny = int(input("How many pennies? "))
