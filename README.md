@@ -11,17 +11,18 @@ To run the Python code in this repository, you will need to have Python installe
 ---
 
 **Libraries Learned/Used**
--intergrated python libraries as well as...
--tkinter
--turtle
--numpy
--pandas
--beautiful soup -bs4
--selenium
--datetime
--Flask
--requests
--anaconda
--pienv
--dotenv
--and many more...
+
+* intergrated python libraries as well as...
+* tkinter
+* turtle
+* numpy
+* pandas
+* beautiful soup *bs4
+* selenium
+* datetime
+* Flask
+* requests
+* anaconda
+* pienv
+* dotenv
+* and many more...
